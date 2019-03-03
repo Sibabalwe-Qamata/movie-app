@@ -1,0 +1,24 @@
+{
+  "name": "movie-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sibabalwe-Qamata/movie-app.git"
+  },
+  "author": "Sibabalwe Qamata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sibabalwe-Qamata/movie-app/issues"
+  },
+  "homepage": "https://github.com/Sibabalwe-Qamata/movie-app#readme",
+  "devDependencies": {
+    "karma": "^4.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^2.0.1"
+  }
+}
